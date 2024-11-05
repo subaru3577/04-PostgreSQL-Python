@@ -1,4 +1,4 @@
-# 05-PostgreSQL-Python
+# 05-DecriptiveAnalysis-PostgreSQL-Python
 - Date: 1 November 2024
 - Author: Subaru Shimizu
 
