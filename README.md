@@ -1,4 +1,4 @@
-# 05-DescriptiveAnalysis-PostgreSQL-Python
+# 05 Descriptive Analysis integrating PostgreSQL and Python
 - Date: 1 November 2024
 - Author: Subaru Shimizu
 
