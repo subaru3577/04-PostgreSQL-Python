@@ -15,8 +15,3 @@ This work performs descriptive analyses using PostgreSQL and Python with a sampl
 - Window Functions
 - Date/time Functions
 - Full-text Search
-
-**Disclaimer:**  
-- This work is for educational and informational purposes only. The author makes no warranties or representations about the accuracy, reliability, or completeness of the code.
-- The author does not take any responsibility for any direct, indirect, incidental, or consequential damages and losses from the use of the work.
-- The work is not to be reused, modified, or redistributed without explicit permission from the author.
