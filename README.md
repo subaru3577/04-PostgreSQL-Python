@@ -6,6 +6,8 @@
   
 This work performs descriptive analyses using PostgreSQL and Python with a sample database provided by Neon, Inc. The integration of PostgreSQL and Python allows for efficient data manipulation to address various business queries.
 
+JupyterNotebook is available [here](https://github.com/subaru3577/05-PostgreSQL-Python/blob/main/PostgreSQL_descriptive_analysis.ipynb).
+
 **Used SQL Techniques:**  
 - JOIN
 - Aggregations
