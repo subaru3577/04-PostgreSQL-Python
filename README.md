@@ -4,7 +4,7 @@
 
 **Overview:**  
   
-This work performs descriptive analyses using PostgreSQL and Python with a [sample database about DVD rentals provided by Neon, Inc](https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database). The integration of PostgreSQL and Python allows for efficient data manipulation to address various business queries.
+This work performs descriptive analyses using PostgreSQL and Python with [a sample database about DVD rentals provided by Neon, Inc](https://neon.tech/postgresql/postgresql-getting-started/postgresql-sample-database). The integration of PostgreSQL and Python allows for efficient data manipulation to address various business queries.
 
 [JupyterNotebook](https://github.com/subaru3577/05-PostgreSQL-Python/blob/main/PostgreSQL_descriptive_analysis.ipynb) is available.
 
